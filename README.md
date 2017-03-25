@@ -1,0 +1,2 @@
+# ZXingAndroidClientLibrary
+ZXingAndroidClientLibrary是一个将开源库ZXing中的Barcode Scanner软件简化成一个Android库（Android Library）的项目。此项目能够极大的简化在Android程序中使用二维码的功能。
